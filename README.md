@@ -1,6 +1,6 @@
-## Hi there 👋
-
-<!--
+## Marianna
+### Laurea magistrale in Teorie e tecniche per lo studio delle opere d'arte
+Questo repository serve per il corso di Digital Humanities
 **mariannarinaldi/Mariannarinaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
